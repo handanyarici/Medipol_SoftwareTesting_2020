@@ -1,0 +1,1 @@
+Labda yapilan projeeler commitlenir.

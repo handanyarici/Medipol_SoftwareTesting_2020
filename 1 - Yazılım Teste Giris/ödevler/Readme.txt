@@ -1,0 +1,1 @@
+Ödevler commitlenir
