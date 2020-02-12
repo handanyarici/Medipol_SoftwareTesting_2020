@@ -1,0 +1,3 @@
+Merhaba,
+
+Herkese açık bilgi olan, kullanıcı adı bilgisiyle kullanıcının kayıt olduğu ilişkilendirildiği mail adresini gizlenmeden görebiliyorum. 
