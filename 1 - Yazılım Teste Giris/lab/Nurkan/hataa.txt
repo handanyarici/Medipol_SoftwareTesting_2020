@@ -1,0 +1,5 @@
+1.Pegasusun sayfalarına girip hata aramakla başladım
+
+2.Sayfaları genişletip küçültürek https://www.flypgs.com/kampanyali-ucak-biletleri bu adreste bir hata buldum.
+
+3.Görseli ektedir.
