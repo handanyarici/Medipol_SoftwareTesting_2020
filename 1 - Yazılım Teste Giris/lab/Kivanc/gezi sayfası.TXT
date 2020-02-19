@@ -1,0 +1,1 @@
+flypgs ana sayfasından gezi turlarına tıklanır Nasıl Gidilir? kısmına inilir araç kiralama kısmına tıklanır şehir seçilir tarih seçilir ara butonuna tıklanır gerekli sayfaya yönlendirme yapılmadığı için test başarısız olur istenen sonuca ulaşılamaz.
