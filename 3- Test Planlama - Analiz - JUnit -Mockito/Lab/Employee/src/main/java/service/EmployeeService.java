@@ -7,7 +7,7 @@ import model.Employee;
  */
 public class EmployeeService
 {
-	public int getEmployeeCount() {
+	public Employee getEmployeeCount() {
 		throw new UnsupportedOperationException();
 	}
 

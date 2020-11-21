@@ -14,10 +14,10 @@ public class EmployeeController
 		this.employeeService = employeeService;
 	}
 
-	public int getProjectedEmployeeCount()
+	public String getProjectedEmployeeCount()
 	{
-		final int actualEmployeeCount = employeeService.getEmployeeCount();
-		return actualEmployeeCount * 2;
+		final Employee actualEmployeeCount = employeeService.getEmployeeCount();
+		return actualEmployeeCount.getfName();
 	}
 
 	public void saveEmployee(Employee employee) {
